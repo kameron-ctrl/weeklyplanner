@@ -27,7 +27,7 @@ Now that you have a foundational understanding of these concepts, let's apply th
 
 
 
-## Example Project Description:**
+## Example Project Description:
 
 **Title: Personal Finance Tracker**
 
