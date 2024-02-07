@@ -1,4 +1,4 @@
-# Project Creation Guideline: Fundamentals of Programming**
+# Project Creation Guideline: Fundamentals of Programming
 
 ## Introduction
 This assignment is designed to provide you with a practical and hands-on experience in building a real-world application using C++. Throughout the course, we will iteratively enhance this project by incorporating new programming concepts. The primary goal is to reinforce your understanding of fundamental C++ concepts and gradually apply them to create a more complex and functional program.
