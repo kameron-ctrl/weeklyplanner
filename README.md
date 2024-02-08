@@ -80,7 +80,7 @@ In this project, I will create a simple personal finance tracker using C++. The 
       1. User Manual
 
 ### Template Files
-- [User Manual](GUIDES.md)
+- [User Manual](GUIDE.md)
 - [Submission Template](PROJECT_SUB_TEMPLATE.md)
 
 #### Notes:
