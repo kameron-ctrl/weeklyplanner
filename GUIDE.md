@@ -51,5 +51,3 @@ _List and describe the major features of your application._
     </dd>
 </dl>
 
-## Other Sections
-_This section and those that follow are unique to your program. Ensure this guide offers step by step information on how to use your program. Add as many sections as relevant to your program. Be sure to add images. Use the sample guides in the comments above as examples._
