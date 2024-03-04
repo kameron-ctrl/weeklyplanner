@@ -1,9 +1,9 @@
-# [User Manual Title]
+# Meal Plan Tracker User Guide
 
-_Author: **[YOUR NAME]**_ <br/>
-_Version: **[VERSION NUMBER]**_ <br/>
+_Author: **Kameron Benjamin**_ <br/>
+_Version: **1**_ <br/>
 _Revised: **[REVISION DATE]**_ <br/>
-<small>Copyright (C)**[CURRENT YEAR]**, <i>All rights reserved.</i></small>
+<small>Copyright (C)**2024**, <i>All rights reserved.</i></small>
 
 [//]: <> (User Guide Samples: https://www.dropbox.com/scl/fo/l4cwcd61u2k6n8w6ovbzu/h?rlkey=djxdqkmyexvbw7jcdao6u2hlg&dl=1)
 
@@ -13,29 +13,41 @@ _Revised: **[REVISION DATE]**_ <br/>
 2. [Major Features](#major-features)
 
 ## Introduction
-_Introduce your application. Describe it's purpose and who your intended user is._
+Welcome to the Weekly Meal Planner. Within this program you will find yourself able to plan your meals for every day of the week. You have the ability to add meal opetions, gnereate meal plans, save those meal plans to a file and load a meal plan from a file.
 
 ## Major Features
 _List and describe the major features of your application._
 
 <dl>
     <dt>
-        <strong>Feature One</strong>
+        <strong>Add meal</strong>
     </dt>
     <dd>
-        <i>Description of feature one.</i>
+        <i>With this option, you're able to add meal options for every day of the week. You will be prompeted to enter the day number and the meal options which include Breakfast, Lunch, Dinner, and a snack</i>
     </dd>
     <dt>
-        <strong>Feature Two</strong>
+        <strong>Generate a Meal Plan</strong>
     </dt>
     <dd>
-        <i>Description of feature two.</i>
+        <i>This feature will display the meal options you have for each day of the week</i>
     </dd>
     <dt>
-        <strong>Feature Three</strong>
+        <strong>Save meal Plan to File</strong>
     </dt>
     <dd>
-        <i>Description of feature three.</i>
+        <i>This feature saves the meal plan that you made to a file named meal_plan.txt. The meal plan gets saved ina simple text format.</i>
+    </dd>
+    <dt>
+        <strong>Load meal PLan from File</strong>
+    </dt>
+    <dd>
+        <i>This feature loads a meal plan from the file meal_plan.txt. It reads from the file and displays it onto the screen</i>
+    </dd>
+    <dt>
+        <strong>Exit</strong>
+    </dt>
+    <dd>
+        <i>This feature ends the program.</i>
     </dd>
 </dl>
 
