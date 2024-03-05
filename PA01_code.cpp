@@ -58,7 +58,7 @@ int main() {
             } else {
                 cout << "Unable to open file meal_plan.txt\n";
             }
-        } else if (choice == 4) { // Load meal plan from file
+        } else if (choice == 4) { 
             ifstream file("meal_plan.txt");
             if (file.is_open()) {
                 string line;
@@ -72,7 +72,7 @@ int main() {
                             string mealType = line.substr(0, pos);
                             string mealOption = line.substr(pos + 2);
                             mealOptions[dayIndex - 1][mealType == "Breakfast" ? 0 : (mealType == "Lunch" ? 1 : (mealType == "Dinner" ? 2 : 3))] = mealOption;
-                            dayIndex++; // Increment dayIndex after reading each meal option
+                            dayIndex++; 
                         }
                     }
                 }
@@ -81,7 +81,7 @@ int main() {
             } else {
                 cout << "Unable to open file meal_plan.txt\n";
             }
-        } else if (choice == 5) { // Exit
+        } else if (choice == 5) { 
             cout << "Exiting...\n";
             return 0;
         } else {
