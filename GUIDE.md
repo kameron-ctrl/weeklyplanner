@@ -16,7 +16,7 @@ _Revised: **[REVISION DATE]**_ <br/>
 Welcome to the Weekly Meal Planner. Within this program you will find yourself able to plan your meals for every day of the week. You have the ability to add meal opetions, gnereate meal plans, save those meal plans to a file and load a meal plan from a file.
 
 ## Major Features
-_List and describe the major features of your application._
+
 
 <dl>
     <dt>
